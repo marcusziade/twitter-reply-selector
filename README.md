@@ -5,7 +5,7 @@ A browser extension that automatically sets reply visibility to "Verified accoun
 ## Features
 
 - Automatically changes the default "Everyone can reply" setting to "Verified accounts"
-- Works when composing new tweets, replies, or quote tweets
+- Works when composing new tweets or quote tweets
 - Runs in the background - no manual intervention needed
 - Works on both twitter.com and x.com domains
 
@@ -27,10 +27,9 @@ Firefox support coming soon.
 
 Once installed, the extension works automatically whenever you compose a tweet:
 
-1. Start composing a tweet, reply, or quote tweet on Twitter/X
+1. Start composing a tweet or quote tweet on Twitter/X
 2. The extension will detect the "Everyone can reply" setting
 3. It will automatically change this to "Verified accounts"
-4. You can still manually change the setting to any other option if desired
 
 ## Troubleshooting
 
