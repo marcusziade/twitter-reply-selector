@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/marcusziade/twitter-reply-selector/total.svg)](https://github.com/marcusziade/twitter-reply-selector/releases)
+
 # Twitter Reply Auto-Selector
 
 A browser extension that automatically sets reply visibility to "Verified accounts" when composing tweets on Twitter/X.
